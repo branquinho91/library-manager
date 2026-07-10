@@ -195,8 +195,6 @@ This project was built to practice:
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 **Gustavo Branquinho**
-
-Software Developer focused on backend development and Java ecosystem studies.
